@@ -1,1 +1,27 @@
 /*This is my CSS/Style Page for my website!!!!*/
+
+body {
+	background-color: gray;
+}
+
+h1 {
+	color: white;
+
+}
+
+.intro {
+	display: block;
+	font-size: 20px;
+	text-align: center;
+	font-style: bold;
+	border: thick thick thick thick;
+	border-style: ridge;
+	border-color: green;
+	box-shadow: 10px 20px #ffe900;
+	border-width:80px;
+	width: 80%;
+	margin-left: 5%;
+	background-color: blue;
+	color: white;
+	border-radius: 20px;
+}
